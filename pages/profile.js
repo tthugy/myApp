@@ -8,6 +8,7 @@ export default function profile() {
       <Link href="/">
         <a className={styles.link}>index</a>
       </Link>
+      <source src="/assets/media.mp4" type="video/mp4"/>
       Profile 🫠!
     </div>
   )
