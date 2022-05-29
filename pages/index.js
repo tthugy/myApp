@@ -10,6 +10,7 @@ export default function Home() {
       <Link href="/profile">
         <a className={styles.link}>profile</a>
       </Link>
+      <Image src="/assets/next.png" width={100} height={100}></Image>
       welcome to myApp 🥸
     </div>
   )
