@@ -10,7 +10,7 @@ export default function Home() {
       <Link href="/profile">
         <a className={styles.link}>Go to profile</a>
       </Link>
-      <Image src="/assets/next.png" width={150} height={100}></Image>
+      <Image src="/assets/next.png" width={150} height={150}></Image>
       welcome to my-App 🥸
     </div>
   )
