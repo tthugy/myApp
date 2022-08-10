@@ -1,1 +1,1 @@
-## myApp
+## Study code for React
